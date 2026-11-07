@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+transBot/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+env
+*.log
+.DS_Store

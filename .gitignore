@@ -1,0 +1,21 @@
+# Секретные ключи и токены
+.env
+*.env
+
+# Подпроекты / другие боты в этой директории
+transBot/
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+ENV/
+
+# Служебные файлы Python и ОС
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.DS_Store
+.AppleDouble
+.LSOverride
